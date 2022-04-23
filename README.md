@@ -33,7 +33,9 @@ Projecting geo-tagged tweets onto maps with QGIS we can see the locations of the
 Although both areas are Californian and of major metropolitan areas, the aura produced by the word clouds differ, indicating the cultural difference between the two.  The SF region consists some more tech related keywords such as google, career, and tesla.  The LA region, however, displays terms that are more touristy and laid back, such as friend, happy, and post.  Another factor that can be considered is the Coachella Valley Music Festival is happening this week, relatively close by LA, meaning that these tweets can be skewed by tourists visiting the area. 
 
 ![wordcloud1](https://github.com/hxliaoay/geog458lab2/blob/main/img/wordcloud1.png?raw=true)
+
 *word cloud 1: San Francisco Bay Area*
 
 ![wordcloud2](https://github.com/hxliaoay/geog458lab2/blob/main/img/wordcloud2.png?raw=true)
+
 *word cloud 2: Los Angeles Metropolitan Area*
